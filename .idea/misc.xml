@@ -3,7 +3,36 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN02/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1255" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN02/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.1255" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN02/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1255" />
         <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN02/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN02/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/information.xml" value="0.67" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.14" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.14" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/activity_addedit.xml" value="0.5" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/activity_info.xml" value="0.35104166666666664" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/information.xml" value="0.35104166666666664" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN2/app/src/main/res/menu/mnsearh.xml" value="0.33" />
+        <entry key="..\:/DQ/NguyenThiDiemQuynh_BTVN2/app/src/main/res/menu/savemenu.xml" value="0.35" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1335" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_create_24.xml" value="0.1335" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1335" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.1" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_phone_android_24.xml" value="0.1335" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_baseline_sort_24.xml" value="0.186" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1335" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/activity_addedit.xml" value="0.3333333333333333" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/activity_info.xml" value="0.22" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/activity_search.xml" value="0.1" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/information.xml" value="0.3333333333333333" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/layout/phone_row.xml" value="0.4466666666666667" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/menu/mnmain.xml" value="0.3333333333333333" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/menu/mnsearh.xml" value="0.1" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/menu/mnsort.xml" value="0.1796875" />
+        <entry key="..\:/NguyenThiDiemQuynh_BTVN2/app/src/main/res/menu/savemenu.xml" value="0.1796875" />
       </map>
     </option>
   </component>
