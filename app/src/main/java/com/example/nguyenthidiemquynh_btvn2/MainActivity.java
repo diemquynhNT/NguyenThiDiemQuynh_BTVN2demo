@@ -147,7 +147,7 @@ public class MainActivity extends AppCompatActivity implements PhoneAdapter.List
                 phoneAdapter.getFilter().filter(query);
                 return false;
             }
-
+//
             @Override
             public boolean onQueryTextChange(String newText) {
                 phoneAdapter.getFilter().filter(newText);

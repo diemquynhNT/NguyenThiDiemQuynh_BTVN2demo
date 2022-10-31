@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import de.hdodenhof.circleimageview.CircleImageView;
-
+//
 public class PhoneAdapter extends RecyclerView.Adapter<PhoneAdapter.PhoneVH> implements Filterable {
     ArrayList<Phone> phones;
     Context context;

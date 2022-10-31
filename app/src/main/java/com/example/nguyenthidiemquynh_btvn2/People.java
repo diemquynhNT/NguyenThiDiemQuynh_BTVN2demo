@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class People extends Application {
     public static ArrayList<Phone> data;
-
+//
     @Override
     public void onCreate() {
         super.onCreate();
